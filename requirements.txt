@@ -1,0 +1,5 @@
+einops==0.7.0
+numpy==1.26.2
+pytorch_lightning==2.1.2
+torch==2.1.1
+x_transformers==1.25.1
